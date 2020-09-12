@@ -10,6 +10,9 @@ While the data was clean, relatively speaking, there was still work to be done i
 
 Next, we wanted to have three different CSV files for water temperature, conductivity, and PH levels. The first part of our code, the exploratory file, was us making and exporting three different CSVs with the the data properly formatted. This mostly consisted of us using Python to select only the neccesary columns for our dataframes, and filtering some of the data as neccesary. 
 
+### Enhancing the data
+
+After the intial export of our data to CSV's, we updated our files by adding the fields "q" and "quarter" to make our data more filterable and comparable across different series of time.
 
 ### License
 

@@ -12,7 +12,7 @@ Next, we wanted to have three different CSV files for water temperature, conduct
 
 ### Enhancing the data
 
-After the intial export of our data to CSV's, we updated our files by adding the fields "q" and "quarter" to make our data more filterable and comparable across different series of time.
+After the intial export of our data to CSV's, we updated our files by adding the fields "q" and "quarter" to make our data more filterable and comparable across different series of time. After this process, we imported the data into Tableau for further analysis
 
 ### License
 

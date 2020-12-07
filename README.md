@@ -2,7 +2,7 @@
 
 ### Background
 
-This project centered around pollution in the Chesapeake Bay. Our goal was to visualize pollution in the bay and show how it has changed over time. We were provided with a massive dataset with numerous different pollution datapoints, which were divided by the regions of the Chesapeake Bay watershed. This data comes primarily from the CMC (Chesapeake Monitoring Cooperative), and the CBP (Chesapeake Bay Program), and includes pollution measurement indicators such as water temperature, PH levels, and conductivity.
+This project was done for a Hackthathon sponsored by Booz Allen Hamilton and several environmental organizations. It centered around pollution in the Chesapeake Bay, and was divided into four challenges, with each team only able to choose one. Our goal was to visualize pollution in the bay and show how it has changed over time. We were provided with a massive dataset with numerous different pollution datapoints, which were divided by the regions of the Chesapeake Bay watershed. This data comes primarily from the CMC (Chesapeake Monitoring Cooperative), and the CBP (Chesapeake Bay Program), and includes pollution measurement indicators such as water temperature, PH levels, and conductivity.
 
 ### Cleaning the data
 
